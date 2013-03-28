@@ -1,3 +1,9 @@
 [submodule "bootstrap"]
 	path = bootstrap
 	url = git://github.com/twitter/bootstrap.git
+[submodule "Font-Awesome-More"]
+	path = Font-Awesome-More
+	url = git://github.com/gregoryloucas/Font-Awesome-More.git
+[submodule "foundation"]
+	path = foundation
+	url = git://github.com/zurb/foundation.git
